@@ -19,4 +19,4 @@ var twoSum = function(nums, target) {
     
 };
 
-console.log(twoSum([3,2,4,3,5,1,2],3))
+console.log(twoSum([3,2,4,3,5,1,2],))
